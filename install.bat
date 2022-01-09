@@ -1,4 +1,4 @@
 @echo off
 pip install --upgrade pip
-pip install PIL
+pip install pillow
 echo インストールが終わったよ!
